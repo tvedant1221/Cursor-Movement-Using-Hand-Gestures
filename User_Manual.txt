@@ -1,0 +1,23 @@
+Project- Cursor Movement On Object Motion
+
+You need some system requirements to run the program successfully
+
+Step 1. Download and install the Python 3.8 in your system.
+
+Step 2. Install all the required libraries using Command Prompt>> Follow from Step 3.
+
+Step 3. Open the command prompt and select the folder where the python libraries are installed.
+
+Step 4. Now type the following commands followed by enter key and wait until the it get successfully installed.
+        >>python -m pip install opencv-python
+        >>python -m pip install mediapipe
+        >>python -m pip install pyautogui
+        >>python -m pip install ctypes
+        >>python -m pip install comtypes
+        >>python -m pip install pycaw
+        >>python -m pip install screen_brightness_control
+
+Step 5. Open the python 3.8 IDLE and save the program file in a new file.
+
+Step 6. Press F5 to run the program.
+
